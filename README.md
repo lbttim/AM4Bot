@@ -5,6 +5,7 @@ Bot for Airline Manager 4 for Windows, chrome web version only.
 Python bot for airline4.net
 
 FEATURES:
+
 -Buying fuel
 
 -Buying CO2
