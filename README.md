@@ -15,5 +15,4 @@ FEATURES:
 -Sending planes on bulk repair
 
 
-Install selenium and webdriver
-Then change YOUR_PASSWORD and YOUR_EMAIL with your password and email whic are you using for airline manager 4.
+Install selenium and webdriver, then change YOUR_PASSWORD and YOUR_EMAIL with your password and email which are you using for airline manager 4.
